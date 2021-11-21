@@ -1,4 +1,4 @@
-###<a href="https://app.daily.dev/othmanos"><img src="https://api.daily.dev/devcards/c6ad6d022eff431ea55bc71f4e107cd4.png?r=lji" width="400" alt="othman el karkoubi's Dev Card"/></a>
+<a href="https://app.daily.dev/othmanos"><img src="https://api.daily.dev/devcards/c6ad6d022eff431ea55bc71f4e107cd4.png?r=lji" width="400" alt="othman el karkoubi's Dev Card"/></a>
 
 <!--
 **othmandev97/othmandev97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
